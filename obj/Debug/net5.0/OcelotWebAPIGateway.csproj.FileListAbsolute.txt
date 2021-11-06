@@ -38,7 +38,6 @@ D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\obj\Debug\net5.0\stat
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\obj\Debug\net5.0\staticwebassets\OcelotWebAPIGateway.StaticWebAssets.xml
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\obj\Debug\net5.0\scopedcss\bundle\OcelotWebAPIGateway.styles.css
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\obj\Debug\net5.0\OcelotWebAPIGateway.RazorTargetAssemblyInfo.cache
-D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\obj\Debug\net5.0\OcelotWebAPIGateway.csproj.CopyComplete
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\obj\Debug\net5.0\OcelotWebAPIGateway.dll
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\obj\Debug\net5.0\ref\OcelotWebAPIGateway.dll
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\obj\Debug\net5.0\OcelotWebAPIGateway.pdb
