@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace AuthWebAPI.Controllers
 {
     [ApiController]
-    [Route("[controller")]
+    [Route("[controller]")]
     public class AuthController : ControllerBase
     {
         public AuthController(ILogger<AuthController> logger) { }

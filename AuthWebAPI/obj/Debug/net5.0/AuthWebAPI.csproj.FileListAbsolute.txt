@@ -29,7 +29,6 @@ D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\AuthWebAPI\obj\Debug\
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\AuthWebAPI\obj\Debug\net5.0\staticwebassets\AuthWebAPI.StaticWebAssets.xml
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\AuthWebAPI\obj\Debug\net5.0\scopedcss\bundle\AuthWebAPI.styles.css
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\AuthWebAPI\obj\Debug\net5.0\AuthWebAPI.RazorTargetAssemblyInfo.cache
-D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\AuthWebAPI\obj\Debug\net5.0\AuthWebAPI.csproj.CopyComplete
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\AuthWebAPI\obj\Debug\net5.0\AuthWebAPI.dll
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\AuthWebAPI\obj\Debug\net5.0\ref\AuthWebAPI.dll
 D:\Github\FernandoCalmet\CS-ASPNET-Core-API-Gateway-Ocelot\AuthWebAPI\obj\Debug\net5.0\AuthWebAPI.pdb

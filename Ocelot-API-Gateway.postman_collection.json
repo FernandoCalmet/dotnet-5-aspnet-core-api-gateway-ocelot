@@ -1,0 +1,156 @@
+{
+	"info": {
+		"_postman_id": "5eb29272-ca11-4a1b-9350-02f83af28a85",
+		"name": "Ocelot-API-Gateway",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "API Gateway",
+			"item": [
+				{
+					"name": "Get Users",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VyVHlwZSI6ImFkbWluIiwiZXhwIjoxNjM2MzA0MjIwfQ.Y__bDCZRR2Jft4Sn6AC1xTrKK1GyLkuOUR1_0BpqzFa0YwPovW1WOGZDWcEPfT1o83Skn1pApYwL8oGn2Cyanw",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "MyHeader",
+								"value": "1",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:44325/api/users",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44325",
+							"path": [
+								"api",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Posts",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VyVHlwZSI6ImFkbWluIiwiZXhwIjoxNjM2MzA0MjIwfQ.Y__bDCZRR2Jft4Sn6AC1xTrKK1GyLkuOUR1_0BpqzFa0YwPovW1WOGZDWcEPfT1o83Skn1pApYwL8oGn2Cyanw",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "MyHeader",
+								"value": "1",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:44325/api/posts",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44325",
+							"path": [
+								"api",
+								"posts"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Users Posts",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VyVHlwZSI6ImFkbWluIiwiZXhwIjoxNjM2MzA0MjIwfQ.Y__bDCZRR2Jft4Sn6AC1xTrKK1GyLkuOUR1_0BpqzFa0YwPovW1WOGZDWcEPfT1o83Skn1pApYwL8oGn2Cyanw",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "MyHeader",
+								"value": "1",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:44325/api/usersposts",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44325",
+							"path": [
+								"api",
+								"usersposts"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "API Authentication",
+			"item": [
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"admin\",\r\n    \"password\": \"admin\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44330/auth/token",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44330",
+							"path": [
+								"auth",
+								"token"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
