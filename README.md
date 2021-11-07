@@ -7,7 +7,7 @@ Project sample: API Gateway using Ocelot with C# ASPNET Core 5
 - [x] JWT Authentication
 - [x] Filter Header Customized
 - [x] Blacklist Handler
-- [x] Rate Limits Options
+- [x] Rate Limits Options (usefull for ddos prevention)
 - [x] Security Settings by Users
 
 ---
