@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PtuF/IMFW6DdxS5Ac2WfKm+MX67F1VGr4WBnJ4LNal1/x6o3LQBUAY+JBQUEKG+7v2bX5kGAVkZ25ZL4KwlQBg==",
+  "dgSpecHash": "cxnRL3DVqaSBXv8YuT2mRZlbB9ldBVgtZk3q0k3UQwrpiLVhJiP/XBNBdd5q8KraoIj7LpPRJ+aCnNSwUjEprg==",
   "success": true,
   "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-API-Gateway-Ocelot\\OcelotWebAPIGateway\\OcelotWebAPIGateway.csproj",
   "expectedPackageFiles": [

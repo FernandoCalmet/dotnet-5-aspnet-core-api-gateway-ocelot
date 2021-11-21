@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUeIM2h23Yg0Br+sIzExCPH2PogDGw7BP38uDbnwLNvKl8oa37WUc3fjQtqSCuv+JJA8H6Gp/y2W3hdVPDeWPA==",
+  "dgSpecHash": "iXjGyGbtCIqq3RaXF3YqCWfOvcLCRNTY17PkhSPv51zvfLEF0hhiNcm4OGau1S3tkTuewXvfESnZbzFS46uP6A==",
   "success": true,
   "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-API-Gateway-Ocelot\\AuthWebAPI\\AuthWebAPI.csproj",
   "expectedPackageFiles": [
