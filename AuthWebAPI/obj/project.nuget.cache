@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iXjGyGbtCIqq3RaXF3YqCWfOvcLCRNTY17PkhSPv51zvfLEF0hhiNcm4OGau1S3tkTuewXvfESnZbzFS46uP6A==",
+  "dgSpecHash": "9yb7pwBw8a67JGV9BG88Zimoj0Pu5oqG9aKyNnvZ/GyBZvvO705VYvClhxx325bf5ttrnUqUXfJev8dNvu42XQ==",
   "success": true,
   "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-API-Gateway-Ocelot\\AuthWebAPI\\AuthWebAPI.csproj",
   "expectedPackageFiles": [
@@ -18,7 +18,8 @@
     "C:\\Users\\I7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\I7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\I7\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
-    "C:\\Users\\I7\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "C:\\Users\\I7\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\I7\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []
 }

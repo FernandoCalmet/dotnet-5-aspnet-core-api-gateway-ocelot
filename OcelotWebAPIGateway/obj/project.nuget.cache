@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cxnRL3DVqaSBXv8YuT2mRZlbB9ldBVgtZk3q0k3UQwrpiLVhJiP/XBNBdd5q8KraoIj7LpPRJ+aCnNSwUjEprg==",
+  "dgSpecHash": "Jy6D8pBRB0USnE/OAQ7eTXUKsSWpSihRcIxfTTGI5pfVmSM+Xf3IDBnIKjb3dh3uURPtD4QVdFt8kN/AiAm0Qw==",
   "success": true,
   "projectFilePath": "D:\\Github\\FernandoCalmet\\CS-ASPNET-Core-API-Gateway-Ocelot\\OcelotWebAPIGateway\\OcelotWebAPIGateway.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,8 @@
     "C:\\Users\\I7\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\I7\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\I7\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
-    "C:\\Users\\I7\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "C:\\Users\\I7\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\I7\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []
 }

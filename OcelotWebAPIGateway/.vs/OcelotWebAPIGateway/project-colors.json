@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d78cfb06-c03b-4489-9e70-41068203c8d7": {
+      "ProjectGuid": "d78cfb06-c03b-4489-9e70-41068203c8d7",
+      "DisplayName": "OcelotWebAPIGateway",
+      "ColorIndex": 0
+    },
+    "8b696cdd-118c-4476-a9f2-d2448990918c": {
+      "ProjectGuid": "8b696cdd-118c-4476-a9f2-d2448990918c",
+      "DisplayName": "AuthWebAPI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
