@@ -30,7 +30,7 @@ Este proyecto es una muestra de una aplicación API Gateway con Ocelot. Se utili
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/DOTNET-5-ASPNET-Core-API-Gateway-Ocelot
+gh repo clone FernandoCalmet/dotnet-5-aspnet-core-api-gateway-ocelot
 ```
 
 Ejecutar aplicación.
